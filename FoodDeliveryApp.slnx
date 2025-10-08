@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="ConfigureEventGridSubscriptions.sh" />
+    <File Path="CreateAzureResources.ps1" />
+    <File Path="DeployAPI.sh" />
+    <File Path="DeployFunctions.sh" />
+    <File Path="DeploySignalRHub.sh" />
+    <File Path="TestLocationUpdate.sh" />
+    <File Path="TestOrderCreation.sh" />
+  </Folder>
+  <Project Path="FoodDeliveryApp.API/FoodDeliveryApp.API.csproj" />
+  <Project Path="FoodDeliveryApp.Core/FoodDeliveryApp.Core.csproj" />
+  <Project Path="FoodDeliveryApp.Domain/FoodDeliveryApp.Domain.csproj" />
+  <Project Path="FoodDeliveryApp.Functions/FoodDeliveryApp.Functions.csproj" />
+  <Project Path="FoodDeliveryApp.Infrastructure/FoodDeliveryApp.Infrastructure.csproj" />
+  <Project Path="FoodDeliveryApp.SignalRHub/FoodDeliveryApp.SignalRHub.csproj" />
+</Solution>
