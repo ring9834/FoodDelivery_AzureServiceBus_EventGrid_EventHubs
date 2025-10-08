@@ -8,7 +8,7 @@ Vendors can know new orders coming and get hints;
 
 Delivery driver can be notified they are dispatched new orders automatically; 
 
-Administrators can overlook all or part of delivery men of their real-time GPS location and delivery status as well as watching the real-time status of all or part of the vendors about their preparing foods for packadges; 
+Administrators can overlook all or part of delivery men of their real-time GPS location and delivery status as well as watching the real-time status of all or part of the vendors about their preparing foods for packadges.
 
 ## Logic Flow
 Customer places order → API writes to Cosmos DB → Publishes OrderCreated event;
