@@ -8,7 +8,7 @@ This is an back-end and Cloud services implementation with .Net9, C#, RESTful AP
 
 :bulb: Delivery driver can be notified they are dispatched new orders automatically; 
 
-:bulb: Administrators can overlook all or part of delivery driver of their real-time GPS location and delivery status as well as watching the real-time status of all or part of the vendors about their preparing foods for packadges.
+:bulb: Administrators can overlook all or part of delivery driver of their real-time GPS location and delivery status as well as watching the real-time status of all or part of the vendors about their preparing foods for packages.
 
 ## Logic Flow
 :sparkles: Customer places order → API writes to Cosmos DB → Publishes OrderCreated event;
