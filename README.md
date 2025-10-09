@@ -2,13 +2,13 @@
 This is an bac-kend and Cloud services implementation with .Net9, C#, RESTful API alongside Azure Service Bus, Event Grid, Event Hubs, Azure Functions, Azure SingleR, Azure Notification Hub, and Azure Redis.
 
 ## Main Functions
-Customers can see their order status and the real-time location of delivery driver.
+:bulb: Customers can see their order status and the real-time location of delivery driver.
 
-Vendors can know new orders coming and get hints; 
+:bulb: Vendors can know new orders coming and get hints; 
 
-Delivery driver can be notified they are dispatched new orders automatically; 
+:bulb: Delivery driver can be notified they are dispatched new orders automatically; 
 
-Administrators can overlook all or part of delivery men of their real-time GPS location and delivery status as well as watching the real-time status of all or part of the vendors about their preparing foods for packadges.
+:bulb: Administrators can overlook all or part of delivery men of their real-time GPS location and delivery status as well as watching the real-time status of all or part of the vendors about their preparing foods for packadges.
 
 ## Logic Flow
 :sparkles: Customer places order → API writes to Cosmos DB → Publishes OrderCreated event;
