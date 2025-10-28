@@ -1,7 +1,7 @@
 # FoodDelivery via Azure Service Bus, Event Grid, Event Hubs
 This is an back-end and Cloud services implementation with .Net9, C#, RESTful API alongside Azure Service Bus, Event Grid, Event Hubs, Azure Functions, Azure SingleR, Azure Notification Hub, and Azure Redis.
 
-## Main Functions
+## Features
 :bulb: Customers can see their order status and the real-time location of delivery driver.
 
 :bulb: Vendors can know new orders coming and get hints; 
